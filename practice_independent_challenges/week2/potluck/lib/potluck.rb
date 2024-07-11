@@ -17,4 +17,8 @@ class Potluck
             dish.category == category
         end
     end
+
+    def menu
+        
+    end
 end
